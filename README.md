@@ -44,7 +44,7 @@ N/A
 
 ## How to Contribute
 
-Currently this project is open in my github:
+Currently this project is open source in my github: https://github.com/AdminChatter/Code-Refactor-For-Horiseon. If you wanna help me out, please give me a heads up.
 
 ## Tests
 
